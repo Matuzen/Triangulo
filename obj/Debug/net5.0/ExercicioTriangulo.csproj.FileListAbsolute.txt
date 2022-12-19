@@ -1,0 +1,16 @@
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.exe
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.deps.json
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.json
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.dev.json
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.dll
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ref\ExercicioTriangulo.dll
+E:\C#\Seção 4\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.pdb
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfo.cs
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.dll
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ref\ExercicioTriangulo.dll
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.pdb
+E:\C#\Seção 4\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.genruntimeconfig.cache
